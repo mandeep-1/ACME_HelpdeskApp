@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Pega-Codeset-Patch: 
+Engine-Version: 08-05-03
+Pega-Codeset-Version: 06-01-01
+ArtifactName: ACME
+Synchronizable: false
+ArtifactVersion: 20210119.015719
+Type: Product
+Product-Creation-Date: 2021-Jan-19 00:00:00
+Version: 20210119.015719
+PRPC-Engine: 8.5.2 PRPC-8.5.2-356 ()
+Operator: author@gogoroad
+ArtifactType: product
+Pega-Archive-Type: ApplicationBundle
+Name: ACME
+Archive-Type: PegaArchive
+Export-Date: 2021-Jan-19 01:58:58
+Pega-Codeset-Name: Customer
+Instance-Count: 2875
+
+Name: FileMetadata
+

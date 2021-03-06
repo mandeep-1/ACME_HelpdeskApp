@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<application name="ACME 20210119.015719" description="" >
+	<parfile name="ACME_5_dbconfig.jar" order="1" dbconfig="true" />
+	<sarfile name="ACME_5_schema.jar" order="2"/>
+	<parfile name="ACME_5_rules.jar" order="3"/>
+</application>
